@@ -6,7 +6,7 @@ AirClip is a server/client application designed for efficient clipboard history 
 and synchronization across various devices and operating systems. Developed using modern C++, SQL and the Wt library,
 it offers a user-friendly interface and robust features for both individual and collaborative work environments.
 
-*Also see the AirClip [Windows Client](https://github.com/yxie447/WindowsClient) which is designed to connect to the
+*Also see the AirClip [Windows Client](https://github.com/jarboer/AirClipWindowsClient) which is designed to connect to the
 AirClip server.*
 
 For any inquiries, feedback, or contributions, please feel free to contact the project's authors listed in the "Authors"
